@@ -9,6 +9,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AM3NN&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+### 📄 My CV
+<p align="center">
+  <a href="amen_cv (1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white"/>
+  </a>
+</p>
+
+
+
 
 ### 🛠️ Tech Stack & Skills
 
